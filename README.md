@@ -1,3 +1,3 @@
-# Download Ollama from https://ollama.com/download, then run ollama pull gemma3:1b, then run streamlit run rag_pdf_ollama.py, browser should open on its own.
-## also do pip install streamlit langchain_community langchain_text_splitters langchain_core langchain_ollama pdfplumber
+## Download Ollama from https://ollama.com/download, then run ollama pull gemma3:1b and ollama pull nomic-embed-text, then run streamlit run rag_pdf_ollama.py (if you are facing issues and you are on windows try running python -m streamlit run rag_pdf_ollama.py if doesn't work INSTALL LINUX PLEASE), browser should open on its own.
+## also do pip install streamlit langchain_community langchain_text_splitters langchain_core langchain_ollama pdfplumber faiss-cpu
 If you face any issues call me. If you dont have my number this repo is not made for you. 
