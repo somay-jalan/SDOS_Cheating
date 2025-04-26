@@ -188,7 +188,7 @@ def answer_question_stream(question, documents):
 
 
 # ========== Streamlit UI ==========
-st.title("📚 PDF Q&A Assistant (Optimized with Fallback)")
+st.title("📚 PDF Q&A Assistant")
 
 uploaded_files = st.file_uploader(
     "Upload one or more PDFs to add them to the knowledge base",
